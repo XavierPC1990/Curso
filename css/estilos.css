@@ -7,6 +7,10 @@ h1{
     font-size:40px;
 }
 
+li{
+    color: greenyellow;
+    text-decoration: greenyellow;
+}
 
 h2{
     color:gold;
